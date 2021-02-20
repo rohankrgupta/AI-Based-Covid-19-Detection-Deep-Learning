@@ -1,4 +1,4 @@
-# Lung-X-Ray-Classification-Deep-Learning
+# AI-Based-Covid-19-Detection-Deep-Learning
 
 This is a Convolutional Neural Network (CNN) based ensemble model - CovidNet to classify the X-Ray radiographs into one of the 3 categories : Covid-19, Pneumonia (Viral) and Normal. I have build the ensemble model using 2 parallel pretrained EfficientNet-B0 as backbone networks and averaged their results to classify the High Resolution RadioGraphs accurately reducing the variations in predictions. The dataset is taken from the COVID-19 Open Research Dataset (CORD-19) and consists of about 1300 Covid, 1341 Viral and 1355 Normal High Res Radiographs.
 
